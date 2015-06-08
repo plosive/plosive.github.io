@@ -1,16 +1,134 @@
 <!DOCTYPE>
 <html>
 <head>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="static/css/main.css" />
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-
+    <title>Stop! plosive time</title>
 </head>
 <body>
     <div class="container-fluid">
-        <div class="row">
-            <h1>HI!</h1>
+        <div class="text-center wrapper">
+            <div class="push"></div>
+            <div class="row" id="greeting">
+                <h1>HI!</h1>
+            </div>
+            <div class="row" id="main-content">
+                <div class="col-md-4" id="picture">
+                </div>
+                <div class="col-md-8" id="main-text">
+                    <p>
+                       Hi everyone, I'm going to be presenting a case study on the Mars Climate Orbiter mission failure
+aka "the great space facepalm of '99"
 
+Here is an overview of what i'm going to talk about.
+First I'll give a background and history of how the project came to be.
+Then I'll talk about the mission objectives and the initial plan, followed 
+by the actual timeline of events leading up to the systems failure.
+Next I'll go over the main reasons for failure as highlighted in the Phase I 
+investigation report released by NASA. 
+This will be followed by everyone joining in one giant collective facepalm,
+as I'm sure you'll all see how easily this could have gone much better.
+Finally I'll point out some ethical violations as defined by the ACM IEEE code of 
+ethics for software engineers before opening it up to Q&A and discussion.
+
+Alright.
+The project was given to NASA's Jet Propulsion laboratory, who then selected 
+Lockheed Martin Aerospace as the prime contractor for developing spacecraft lead flight
+systems, tests, and launch support operations. Lockheed had to get a team of developers
+together to basically write all the heavy duty physics calculation software. 
+Control of mission operations and ground data systems was handed over to NASA at the
+time of launch where the Mars Surveyor Operations Project team would maintain communication
+and navigate the spacecraft.
+
+The program was started in 1993, and the first mission was announced in 1996. It was 
+quickly followed up by an announcement of two more missions, the Mars Climate Orbiter, and the
+Mars Polar Lander. The Mars Climate Orbiter was announced to launch in 1998, after NASA created 
+the Mars Surveyor Project Office to handle further decisions.
+
+The Mars Climate Orbiter had abmitious objectives. It would essentially be the first 
+interplanetary weather satellite. Using the equipment it had, it would be able to examine 
+atmospheric circulation patterns and how they effect atmospheric transport and climate change.
+Information like that could be extremely valuable for future landers attempting to slow down via 
+aerobraking. It would also give information about winds, atmospheric dust cycles, surface features
+that would improve understanding of the past martian climate, and perform a variety of experiments.
+Once it had completed its initial assignment, it could be used as a transmission relay for future landers
+for an estimated three years.
+
+So here's the game plan.
+The MCO was scheduled to launch on december 11, 1998. It would be mounted inside the fairing of a Boeing Delta II
+launch vehicle at Cape Canaveral. Once on its way, the MCO would spend 10 months cruising on a hohmann transfer between 
+Earth and Mars' orbits. It was scheduled to perform four mid course maneuvers to adjust its trajectory as needed. 
+Once it got to its red destination, it would perform a 16 minute burn to achieve its initial, 14 hour elliptical orbit.
+It would then use its solar panels to aerobrake at each periapsis and work towards its final, 2 hour orbit.
+Once all the maneuvers were completed, it would be in the perfect position to guide the incoming Mars Polar Lander in for
+a smooth landing on freshly mapped soil. It could then continue the mapping phase of its mission for a full martian year
+while awaiting further instructions.
+
+So what actually went down?
+Well, on december 11, 1998, the Delta II roared to life as it carried the orbiter up through the sky. While the launch went well,
+the spacecraft was experiencing technical difficulties, and for 4 months, the navigation team at NASA relied on emails from 
+the contractor to alert them to events on the spacecraft. Finally, in april of 1999 communication was established, and 
+it was almost immediately apparent that there was an issue with the calculations.
+However, this issue was not brought to anyones attention until september, when a trajectory calculation placed the orbiter
+coming in roughly 100 km lower than expected. Various options were discussed verbally, including a request to execute an emergency
+maneuver, which was in the end, decided against. On september 23, the orbiter began its insertion maneuver to attempt to 
+place it in an elliptical orbit. Communications were lost shortly afterwards. NASA tried exhaustively to reconnect with the lost 
+probe, but there was no progress and the mission was declared a failure.
+
+So what went wrong?
+well. A lot. The post-failure investigation report pinpointed 8 major contributors to the mission failure. 
+And just for the full effect I'm going to read them in the opposite order they are listed in the report.
+Starting with number 8.
+There were issues in the verification and validation process. There was a standard that was defined by the specifications that was
+not properly used in development and testing. The unit tests were also incomplete and not up to the standards specified. 
+The interface control process was also incomplete. 
+But wait. There's more.
+Next there's the inadequate training of staff. The navigations team didn't quite know what they were doing when it came to the mars climate orbiter.
+Also some team members failed to see the use in the ISA formal issue reporting proceedure, and instead relied on email communications.
+This resulted in them needing additional training on top of having poorly documented project histories.
+Other team members didn't want to stick to the systems interface specification, aka the requirements document for the mission. 
+The development team was also unaware of the importance of some software, apparently causing them to not pay close attention to their code or tests.
+Contributer number 6 was a staffing issue. during the period of transit, there were 3 projects running simultaneously, all run by the 
+Mars Surveyor Project Office. Due to funding and scheduling issues and minimal staff, this resulted in multiple situations where sometimes 2, maybe only one of the navigators were present and capable of controlling the spacecrafts.
+However each mission had a minimum requirement of three present navigators at all times. 
+The next major contributor was the lack of communication between the teams in general. The development and operations teams failed to communicate mission critical information on multiple occasions. The operations teams failed to express their concern about the trajectory calculations
+Assumptions were also made about hardware that apparently caused the navigation team to aquire insufficient knowledge of the spacecraft. 
+Basically the team assumed that the hardware was modeled after a previous satellite with many physical differences. 
+Primarily, the solar panels on the previous craft were symmetric where the mars climate orbiter has assymmetric panel array.
+The teams also relied on email communications to handle issues instead of the ISA formal issue reporting procedure.
+
+And the list doesnt stop there.
+
+The fourth contributing issue to the orbiters failure stemmed from the systems engineering process.
+The way the process was designed did not transition well from the development to operations phases. The processes were almost 
+completely separate which let lots of small, yet mission critical details escape the knowledge of the engineers.
+This contributed to the lack of understanding of key components of the spacecraft.
+There were also pieces of software that were deleted without alerting the navigations or operations teams. 
+For example, a pieve of software used to account for angular momentum buildup was determined to be unnecessary and was removed without letting anyone know.
+Other angular momentum desaturation events occurred 10-14 times more than anticipated by the navigation and operations teams.
+
+The next contributing cause was the failure to execute TCM-5, or the emergency trajectory correction maneuver that could have been used to increase the initial periapsis of the orbiter. A request to perform tcm-5 was discussed verbally, but never
+addressed for a number of reasons. The first being the incompleteness of the code and tests for it. There wasn't enough test coverage to adequately determine if the code would even execute correctly. Even if the code were executed, the software was designed in such a way that the mars orbit insertion maneuver took priority, and wouldn't allow for the uploading and executing of the code.
+The operations team was also unaware of the signifigance of tcm-5.
+
+The second significant contributer stemmed from inadequate knowledge of spacecraft characteristics. As you have no doubt noticed, the teams were fairly isolated and unaware of lots of charateristics of the spacecraft. 
+This caused errors to propogate across many facets of the mission. A large reason for the unfamiliarity would be the isolatedness of the teams during the testing and development phases. The operations navigation team did not take part in 
+any kind of software design review. As a matter of fact, a completely different navigations team was used during the testing and development phases.
+This mixed with the overall isolatedness of the teams caused them to fail to pass on critical information regarding control of the vehicle.
+
+And now finally for the number one contributing cause of failure.
+The one you've all been waiting for. The ultimate face palm trigger when it comes to space missions.
+Inadequate and incorrect modeling of spacecraft velocity changes. Over an extended period of time, angular momentum would build up and have to be dealt with to keep the reaction wheels within their acceptable range.
+This was done by recieving data from the spacecrafts computer, and processing it with the SM_FORCES file included in the 
+ground control software designed by lockheed. The output of this file is used in the processing of the data to determine the impulse moment and subsequent velocities.
+The system interface specification required all output to be in units of Newton-seconds, the appropriate metric unit.
+
+The file output in Foot-pound seconds. 
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
 </body>
