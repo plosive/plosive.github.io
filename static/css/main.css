@@ -1,11 +1,56 @@
 @import url("http://fonts.googleapis.com/css?family=Lato:300&subset=latin,latin-ext");
 
+@media screen and (max-width: 1000px){
+    body {
+        background-color: #ff99cc;
+        background-size: cover !important;
+        background-position: center 0px;
+        animation-iteration-count: 0;
+    }
+    @keyFrames slowZoom {
+        0% {
+            background-size: cover;
+        }
+        100% {
+            background-size: cover;
+        }
+    }
+
+}
+
 body, html {
     font-family: 'Lato', sans-serif;
     color: #444;
-    background-image: url('../img/flower_background.png');
+    background-image: url('../img/flower_background.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
     height: 100%;
+
+    animation-name: slowZoom;
+    animation-iteration-count: 1;
+    animation-timing-function: zoom;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: slowZoom;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: zoom;
+    -webkit-animation-duration: 10s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: slowZoom;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-timing-function: zoom;
+    -moz-animation-duration: 10s;
+    -moz-animation-fill-mode: forwards;
+}
+@keyFrames slowZoom {
+    0% {
+        background-size: 100%;
+    }
+    100% {
+        background-size: 105%;
+    }
 }
 
 #avatar {
@@ -15,6 +60,10 @@ body, html {
     border: 7px solid #ccc;
     overflow: hidden;
     margin: 0 auto;
+}
+
+#email {
+    color: #333;
 }
 
 #main-content {
@@ -35,11 +84,12 @@ body, html {
 }
 
 #main-text {
-    height: 100%;
-}
-
-#main-text > .well {
-    height: 100%;
+    background-color: #fff;
+    border-radius: 40px;
+    margin: 10px 10px 0;
+    height: 300px;
+    opacity: 0.8;
+    padding: 3px 5px;
 }
 
 #picture {
@@ -60,3 +110,44 @@ body, html {
 .wrapper {
     height: 100%;
 }
+
+#wug {
+    background-image: url('../img/wug.jpg');
+    border-radius: 25px;
+    border: 3px solid #333;
+    background-size: cover;
+    background-color: #fff;
+    margin: 10px auto 0;
+    width: 50px;
+    height: 50px;
+
+    animation-name: fadeIn;
+    animation-iteration-count: 1;
+    animation-timing-function: zoom;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadeIn;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: zoom;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadeIn;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-timing-function: zoom;
+    -moz-animation-duration: 1s;
+    -moz-animation-fill-mode: forwards;
+}
+@keyFrames fadeIn {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
