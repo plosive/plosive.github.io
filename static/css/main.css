@@ -66,18 +66,8 @@ body, html {
     color: #333;
 }
 
-#main-content {
-    height: 300px;
-    max-width: 70%;
-    max-height: 400px;
-    margin: 0 auto;
-    padding: 5px;
-    overflow: hidden;
-}
-
 #main-panel {
     background-color: #ff99cc;
-    min-height: 500px;
     height: 100%;
     border-top: 3px solid #333;
     border-bottom: 3px solid #333;
@@ -86,10 +76,9 @@ body, html {
 #main-text {
     background-color: #fff;
     border-radius: 40px;
-    margin: 10px 10px 0;
-    height: 300px;
+    margin: 10px 10px 20px;
     opacity: 0.8;
-    padding: 3px 5px;
+    padding: 3px 5px 10px;
 }
 
 #picture {
