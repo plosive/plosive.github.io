@@ -3,7 +3,7 @@ layout: post
 title:  "Hi there"
 category: informal
 published: true
-author: 'tori Christensen
+author: "'tori Christensen"
 ---
 
 Hi everyone, and welcome to my blog. I'll be discussing a variety of topics, primarily having to do with linguistics. I'm planning on throwing in a few "how-to's" as well. The plan is to explain and clarify certain topics in linguistics that I found difficult or confusing during my undergraduate degree. 
