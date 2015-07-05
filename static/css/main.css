@@ -18,6 +18,15 @@
 
 }
 
+@media screen and (max-width: 800px){
+    body {
+        background-color: #ff99cc;
+        background-size: cover !important;
+        background-position: center 0px;
+        animation-iteration-count: 0;
+    }
+}
+
 body, html {
     font-family: 'Lato', sans-serif;
     color: #444;
