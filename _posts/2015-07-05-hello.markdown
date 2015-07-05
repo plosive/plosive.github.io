@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Hi there"
+category: informal
+published: false
+author: 'tori Christensen
+---
+
+Hi everyone, and welcome to my blog. I'll be discussing a variety of topics, primarily having to do with linguistics. I'm planning on throwing in a few "how-to's" as well. The plan is to explain and clarify certain topics in linguistics that I found difficult or confusing during my undergraduate degree. 
+
+I hope you all get some use out of this site. It's not much yet, but I'll be adding content whenever I have time, so check back soon.
+
+For now though, I just wanted to say hello, and thanks for dropping by :)
+
+
+
