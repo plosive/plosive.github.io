@@ -1,66 +1,67 @@
 @import url("http://fonts.googleapis.com/css?family=Lato:300&subset=latin,latin-ext");
 
-@media screen and (max-width: 1000px){
-    body {
-        background-color: #ff99cc;
-        background-size: cover !important;
-        background-position: center 0px;
-        animation-iteration-count: 0;
-    }
-    @keyFrames slowZoom {
-        0% {
-            background-size: cover;
-        }
-        100% {
-            background-size: cover;
-        }
-    }
-
-}
-
-@media screen and (max-width: 800px){
-    body {
-        background-color: #ff99cc;
-        background-size: cover !important;
-        background-position: center 0px;
-        animation-iteration-count: 0;
-    }
-}
-
-body, html {
+body {
     font-family: 'Lato', sans-serif;
     color: #444;
     background-image: url('../img/flower_background.jpg');
-    background-size: cover;
+
+    background-size: cover
     background-repeat: no-repeat;
-    height: 100%;
     overflow-X: hidden;
-
-    animation-name: slowZoom;
-    animation-iteration-count: 1;
-    animation-timing-function: zoom;
-    animation-duration: 10s;
-    animation-fill-mode: forwards;
-
-    -webkit-animation-name: slowZoom;
-    -webkit-animation-iteration-count: 1;
-    -webkit-animation-timing-function: zoom;
-    -webkit-animation-duration: 10s;
-    -webkit-animation-fill-mode: forwards;
-
-    -moz-animation-name: slowZoom;
-    -moz-animation-iteration-count: 1;
-    -moz-animation-timing-function: zoom;
-    -moz-animation-duration: 10s;
-    -moz-animation-fill-mode: forwards;
 }
-@keyFrames slowZoom {
-    0% {
-        background-size: 100%;
+
+@media screen and (min-width: 1024px){
+    body {
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+
+        animation-name: slowZoom;
+        animation-iteration-count: 1;
+        animation-timing-function: zoom;
+        animation-duration: 10s;
+        animation-fill-mode: forwards;
+
+        -webkit-animation-name: slowZoom;
+        -webkit-animation-iteration-count: 1;
+        -webkit-animation-timing-function: zoom;
+        -webkit-animation-duration: 10s;
+        -webkit-animation-fill-mode: forwards;
+
+        -moz-animation-name: slowZoom;
+        -moz-animation-iteration-count: 1;
+        -moz-animation-timing-function: zoom;
+        -moz-animation-duration: 10s;
+        -moz-animation-fill-mode: forwards;
     }
-    100% {
-        background-size: 105%;
+    @keyFrames slowZoom {
+        0% {
+            background-size: 100%;
+        }
+        100% {
+            background-size: 105%;
+        }
     }
+}
+
+@media screen and (max-width: 1024px){
+    body {
+        background-color: #ff99cc;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-position: center 0px;
+
+    }
+
+    #wug {
+        width: 200px !important;
+        height: 200px !important;
+        border-radius: 100px !important;
+        border: 7px  solid #333 !important;
+    }
+
 }
 
 #avatar {
@@ -149,4 +150,3 @@ body, html {
         opacity: 1;
     }
 }
-
