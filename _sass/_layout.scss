@@ -1,3 +1,7 @@
+.dark-link {
+    color: $text-color !important;
+}
+
 /**
  * Site header
  */
@@ -162,11 +166,16 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: 0;
 }
 
 .page-heading {
     font-size: 20px;
+}
+
+.post {
+    background-color: $grey-color-light;
+    padding: $spacing-unit;
 }
 
 .post-list {
@@ -208,7 +217,6 @@
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
 
     h2 {
         font-size: 32px;
