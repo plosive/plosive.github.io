@@ -3,7 +3,7 @@
 body {
     font-family: 'Lato', sans-serif;
     color: #444;
-    background-image: url('../img/flower_background.jpg');
+    background-image: url('../img/exhale.jpg');
 
     background-size: cover
     background-repeat: no-repeat;
@@ -39,7 +39,7 @@ body {
             background-size: 100%;
         }
         100% {
-            background-size: 105%;
+            background-size: 100%;
         }
     }
 }
