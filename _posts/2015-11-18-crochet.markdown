@@ -58,25 +58,40 @@ This is worked in normal rows using the **F** hook with [blk].
 - Using the long tail from the beginning, weave closed the cuff by joining the first & last rows.
   - Cindy suggets working in the back loop of the last row & both loops of first row to keep the appearance of the back loop raised stitching.
 
-### Pt 2: Glove Body
+### Pt 2: Seamless Tutorial
+
+(This is used for the Pt 3: Glove Body) Here is my summary of how to join rows/rnds. I highly suggest you check out Futuregirl's tutorial; it is incredibly helpful (see notes, above).
+* marking the first & last sc in each row with st markers will be incredibly helpful.
+* sc 1 fewer sts than you want to end up with, as the sl st that joins each row will take up the space of one sc.
+* sl st into the first sc of the row.
+* turn, moving your work so the right side (most recently made sts) passes toward you and becomes the left side. Always turn in this direction.
+* ch 1, skip the sl st that you just made, make next sc (which is the first st of this row) in the last sc of the previous row.
+* continue around to complete row. The last st should be made on top of the first st of the previous row (the first st marker).
+* repeat
+
+### Pt 3: Glove Body
 
 - Rnd 1: Slip the **F** hook back into last st of cuff. [blk] Sc evenly along end sts of cuff (30)
-  - I used this  [seamless single crochet tutorial](http://www.futuregirl.com/craft_blog/2009/1/tutorial-seamless-single-crochet-better.aspx)
+  - See Pt 2 for instructions
 - Rnd 2: [blk] using **G** hook, st in each st. (30)
-- Rnd 3: [blk] sc in next 5 sts, [blu] sc in next 5 sts, [blk] sc around. (30 - 5blk, 5blu, 20blk)
+- Rnd 3: [blk] sc in next 5 sts, [blu] sc in next 5 sts, [blk] sc around. (30)
 - Rnd 4-6: sc around continuing colours from previous row - [blk] in [blk], [blu] in [blu] (30)
 - Rnd 7: [blk] sc in next 5 sts, [blu] sc in next 5 sts, [blk] sc in next 4 sts, inc, sc, inc, sc around. (32 - 3 between markers)
     - **IMPORTANT**  Place a stitch marker in the 1st sc of the first inc & the 2nd sc of the second inc. Continue to move your markers up every row. Any time you inc at marker, place markers in new row in this manner.
     - These increases will create the extra room for the palm/thumb.
 - Rnd 8: sc around, continuing colours, & inc at each marker. (34 - 5 between markers)
 - Rnd 9: repeat rnd 8. (36 - 7 between markers)
-- Rnd 10: sc around, continuing colours. (36 - 7 between markers)
+- Rnd 10: sc around, continuing colours. (36)
 - Rnd 11: repeat rnd 8. (38 - 9 between markers)
-- Rnd 12: repeat rnd 10. (38 - 9 between markers)
+- Rnd 12: repeat rnd 10. (38)
 - Rnd 13: repeat rnd 8. (40 - 11 between markers)
-- Rnd 14: repeat rnd 10. (40 - 11 between markers)
+- Rnd 14: repeat rnd 10. (40)
 - Rnd 15: repeat rnd 8. (42 - 13 between markers)
-- Rnd 16 repeat rnd 10. (42 - 13 between markers)
+- Rnd 16 repeat rnd 10. (42)
 - Rnd 17: repeat rnd 8. (44 - 15 between markers)
-- Rnd 18: repeat rnd 10. (44 - 15 between markers)
-- Rnd 19: [blk] sc in next 2 sts, [blu] sc in next 11 sts, [blk] sc around. (44 - 15 between markers)
+- Rnd 18: repeat rnd 10. (44)
+- Rnd 19: [blk] sc in next 2 sts, [blu] sc in next 11 sts, [blk] sc around. (44)
+-
+- Rnd 20: [blk] sc in next 29 sts, inc, [blu] dec, sc in next 7 sts, dec, [blk] inc, sc aroud. (44)
+- Rnd 21: repeat rnd 10. (44)
+- Rnd 22: [blk] 
