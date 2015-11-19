@@ -8,46 +8,75 @@ author: "\'tori Christensen"
 
 ## Preface
 
-Hi there! For christmas I decided to make a pair of fingerless gloves for my boyfriend (a computer programmer & piano player who is always cold). After much debate over what to have on them, I decided to go with the avatar aang arrow on black. I looked around at some patterns for guys but didn't find any that were quite satisfactory, so I decided to mix-n-match the bits I liked from various patterns & do some improv to get what I wanted.
+Hi there! For christmas I decided to make a pair of fingerless gloves for my boyfriend (a computer programmer & piano player who is always cold). After much debate over what to have on them, I decided to go with the airbender arrow (from Avatar: The Last Air Bender) on black. I looked around at some patterns for guys but didn't find any that were quite satisfactory, so I decided to mix-n-match the bits I liked from various patterns & do some improv to get what I wanted.
 
 A few years ago I made a pair of fingerless gloves for myself using the "Idony Fingerless Gloves" pattern from Ravelry ([See!](http://www.ravelry.com/projects/thedautoforegon/idony-fingerless-gloves)). I really liked this pattern, speicifcally the increase in the palm/thumb area, but it's a bit too feminine for what I'm goin for. I found another pattern specifically for men's gloves & I very much liked the cuff from that pattern.
 
 I felt that if I made an arrow & then sewed it on it would be too bulky, so I did some experimenting to figure out how to make an arrow, here's that:  
 ![IMAGE](url)
 
-I wanted to make sure the seam was on the outside edge of the hand, so I decided to use this seamless method ([tutorial here](http://www.futuregirl.com/craft_blog/2009/1/tutorial-seamless-single-crochet-better.aspx)), which involves working back & forth as if you were working rows instead of in the round. So, **please keep in mind** if you're using this pattern & want to use another method in order to work in the round you will have to do every other line of instructions in reverse!
+I wanted to make sure the seam was on the outside edge of the hand, so I decided to use this seamless method, which involves working back & forth as if you were working rows instead of in the round (See Notes/References below). So, **please keep in mind** if you're using this pattern & want to use another method in order to work in the round you will have to do every other line of instructions in reverse!
 
 ## Airbender Fingerless Gloves
 
 ### Stitches & Terms
 
-ch = chain
-sl st = slip stitch
-sc = single crochet
-bls = single crochet in back loop only
-inc = increase (two sc in the same st)
-dec = decrease (aka sc2tog)
+* ch = chain
+* sl st = slip stitch
+* sc = single crochet
+* bls = single crochet in back loop only
+* inc = increase (two sc in the same st)
+* dec = decrease (aka sc2tog)
+* [blk] = black yarn (my main colour)
+* [blu] = blue yarn (colour of arrow)
 
 ### Materials
 
-Yarn : acrylic cause i'm broke as hell
-Hooks: **F** (3.75mm) & **G** (4.25mm)
-Stitch markers (I use coloured paper clips)
+* Yarn : acrylic cause i'm broke as hell
+* Hooks: **F** (3.75mm) & **G** (4.25mm)
+* Stitch markers (I use coloured paper clips)
 
-### Guage/Finished Measurements
+### Guage/Finished Measurements/Sizing
+
+### Notes/References
+
+As I mentioned, much of this pattern is kind of a patchwork of bits of other patterns. I have slightly rephrased & altered some directions in order to reflect what I did. Check out the original patterns here:
+* Part 1 is from [Men's Crocheted Fingerless Gloves](http://www.myrecycledbags.com/2012/01/02/mens-crocheted-fingerless-gloves/) by Cindy (aka RecycleCindy)
+* Most of Part 2 is from [Idony Fingerless Gloves](http://www.ravelry.com/patterns/library/idony-fingerless-gloves) by Sarah
+* As mentioned above, I used Futuregirl's [seamless single crochet tutorial](http://www.futuregirl.com/craft_blog/2009/1/tutorial-seamless-single-crochet-better.aspx)
 
 ## Directions
 
 ### Pt 1: Cuff Ribbing
 
-This part is from the [Men's Crocheted Fingerless Gloves](http://www.myrecycledbags.com/2012/01/02/mens-crocheted-fingerless-gloves/) pattern - all credit to Cindy! I have slightly rephrased her directions & altered some numbers to reflect what I did.
-
-This is worked in normal rows using the **F** hook.
-
+This is worked in normal rows using the **F** hook with [blk].
 - Leave a long tail & ch 11.
-- Row 1: Sc in 2nd ch from hook & in each st down to the end. (10)
-- Row 2-30: Ch 1, bls in each st across (10)
+- Row 1: sc in 2nd ch from hook & in each st down to the end. (10)
+- Row 2-30: ch 1, bls in each st across (10)
 - Repeat row 2 until desired length is reached - I did about 30 rows to make a cuff approx 6.5" around.
   - Leave yarn attached & slip hook out of last st to weave closed the cuff.
 - Using the long tail from the beginning, weave closed the cuff by joining the first & last rows.
   - Cindy suggets working in the back loop of the last row & both loops of first row to keep the appearance of the back loop raised stitching.
+
+### Pt 2: Glove Body
+
+- Rnd 1: Slip the **F** hook back into last st of cuff. [blk] Sc evenly along end sts of cuff (30)
+  - I used this  [seamless single crochet tutorial](http://www.futuregirl.com/craft_blog/2009/1/tutorial-seamless-single-crochet-better.aspx)
+- Rnd 2: [blk] using **G** hook, st in each st. (30)
+- Rnd 3: [blk] sc in next 5 sts, [blu] sc in next 5 sts, [blk] sc around. (30 - 5blk, 5blu, 20blk)
+- Rnd 4-6: sc around continuing colours from previous row - [blk] in [blk], [blu] in [blu] (30)
+- Rnd 7: [blk] sc in next 5 sts, [blu] sc in next 5 sts, [blk] sc in next 4 sts, inc, sc, inc, sc around. (32 - 3 between markers)
+    - **IMPORTANT**  Place a stitch marker in the 1st sc of the first inc & the 2nd sc of the second inc. Continue to move your markers up every row. Any time you inc at marker, place markers in new row in this manner.
+    - These increases will create the extra room for the palm/thumb.
+- Rnd 8: sc around, continuing colours, & inc at each marker. (34 - 5 between markers)
+- Rnd 9: repeat rnd 8. (36 - 7 between markers)
+- Rnd 10: sc around, continuing colours. (36 - 7 between markers)
+- Rnd 11: repeat rnd 8. (38 - 9 between markers)
+- Rnd 12: repeat rnd 10. (38 - 9 between markers)
+- Rnd 13: repeat rnd 8. (40 - 11 between markers)
+- Rnd 14: repeat rnd 10. (40 - 11 between markers)
+- Rnd 15: repeat rnd 8. (42 - 13 between markers)
+- Rnd 16 repeat rnd 10. (42 - 13 between markers)
+- Rnd 17: repeat rnd 8. (44 - 15 between markers)
+- Rnd 18: repeat rnd 10. (44 - 15 between markers)
+- Rnd 19: [blk] sc in next 2 sts, [blu] sc in next 11 sts, [blk] sc around. (44 - 15 between markers)
