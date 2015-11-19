@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Fingerless Gloves Crochet Pattern"
+category: crafts
+published: false
+author: "\'tori Christensen"
+---
+
+## Preface
+
+Hi there! For christmas I decided to make a pair of fingerless gloves for my boyfriend (a computer programmer & piano player who is always cold). After much debate over what to have on them, I decided to go with the avatar aang arrow on black. I looked around at some patterns for guys but didn't find any that were quite satisfactory, so I decided to mix-n-match the bits I liked from various patterns & do some improv to get what I wanted.
+
+A few years ago I made a pair of fingerless gloves for myself using the "Idony Fingerless Gloves" pattern from Ravelry ([See!](http://www.ravelry.com/projects/thedautoforegon/idony-fingerless-gloves)). I really liked this pattern, speicifcally the increase in the palm/thumb area, but it's a bit too feminine for what I'm goin for. I found another pattern specifically for men's gloves & I very much liked the cuff from that pattern.
+
+I felt that if I made an arrow & then sewed it on it would be too bulky, so I did some experimenting to figure out how to make an arrow, here's that:  
+![IMAGE](url)
+
+I wanted to make sure the seam was on the outside edge of the hand, so I decided to use this seamless method ([tutorial here](http://www.futuregirl.com/craft_blog/2009/1/tutorial-seamless-single-crochet-better.aspx)), which involves working back & forth as if you were working rows instead of in the round. So, **please keep in mind** if you're using this pattern & want to use another method in order to work in the round you will have to do every other line of instructions in reverse!
+
+## Airbender Fingerless Gloves
+
+### Stitches & Terms
+
+ch = chain
+sl st = slip stitch
+sc = single crochet
+bls = single crochet in back loop only
+inc = increase (two sc in the same st)
+dec = decrease (aka sc2tog)
+
+### Materials
+
+Yarn : acrylic cause i'm broke as hell
+Hooks: **F** (3.75mm) & **G** (4.25mm)
+Stitch markers (I use coloured paper clips)
+
+### Guage/Finished Measurements
+
+## Directions
+
+### Pt 1: Cuff Ribbing
+
+This part is from the [Men's Crocheted Fingerless Gloves](http://www.myrecycledbags.com/2012/01/02/mens-crocheted-fingerless-gloves/) pattern - all credit to Cindy! I have slightly rephrased her directions & altered some numbers to reflect what I did.
+
+This is worked in normal rows using the **F** hook.
+
+- Leave a long tail & ch 11.
+- Row 1: Sc in 2nd ch from hook & in each st down to the end. (10)
+- Row 2-30: Ch 1, bls in each st across (10)
+- Repeat row 2 until desired length is reached - I did about 30 rows to make a cuff approx 6.5" around.
+  - Leave yarn attached & slip hook out of last st to weave closed the cuff.
+- Using the long tail from the beginning, weave closed the cuff by joining the first & last rows.
+  - Cindy suggets working in the back loop of the last row & both loops of first row to keep the appearance of the back loop raised stitching.
