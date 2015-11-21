@@ -22,7 +22,7 @@ I wanted to make sure the seam was on the outside edge of the hand, so I decided
 ### Stitches & Terms
 
 * ch = chain
-* sl st = slip stitch
+* ss = slip stitch
 * sc = single crochet
 * bls = single crochet in back loop only
 * inc = increase (two sc in the same st)
@@ -62,36 +62,37 @@ This is worked in normal rows using the **F** hook with [blk].
 
 (This is used for the Pt 3: Glove Body) Here is my summary of how to join rows/rnds. I highly suggest you check out Futuregirl's tutorial; it is incredibly helpful (see notes, above).
 * marking the first & last sc in each row with st markers will be incredibly helpful.
-* sc 1 fewer sts than you want to end up with, as the sl st that joins each row will take up the space of one sc.
-* sl st into the first sc of the row.
+* sc 1 fewer sts than you want to end up with, as the ss that joins each row will take up the space of one sc.
+* ss into the first sc of the row.
 * turn, moving your work so the right side (most recently made sts) passes toward you and becomes the left side. Always turn in this direction.
-* ch 1, skip the sl st that you just made, make next sc (which is the first st of this row) in the last sc of the previous row.
+* ch 1, skip the ss that you just made, make next sc (which is the first st of this row) in the last sc of the previous row.
 * continue around to complete row. The last st should be made on top of the first st of the previous row (the first st marker).
 * repeat
 
 ### Pt 3: Glove Body
 
+**Colour** For all rnds except rnd 3, 19, & 27 continue with the same colour yarn as the st you are working in. Rnd 3 is when to join the arrow color. We want it to go straight up until rnd 19, the base of the arrow head. If nothing is mentioned in the directions about colour, assume you'll be continuing up the colours from the previous rnd.
+
 - Rnd 1: Slip the **F** hook back into last st of cuff. [blk] Sc evenly along end sts of cuff (30)
   - See Pt 2 for instructions
 - Rnd 2: [blk] using **G** hook, st in each st. (30)
-- Rnd 3: [blk] sc in next 5 sts, [blu] sc in next 5 sts, [blk] sc around. (30)
+- Rnd 3: [blk] sc in next 5 sts, [join blu] sc in next 5 sts, [blk] sc around. (30)
 - Rnd 4-6: sc around continuing colours from previous row - [blk] in [blk], [blu] in [blu] (30)
-- Rnd 7: [blk] sc in next 5 sts, [blu] sc in next 5 sts, [blk] sc in next 4 sts, inc, sc, inc, sc around. (32 - 3 between markers)
+- Rnd 7: sc in next 14 sts, inc, sc, inc, sc around. (32 - 3 between markers)
     - **IMPORTANT**  Place a stitch marker in the 1st sc of the first inc & the 2nd sc of the second inc. Continue to move your markers up every row. Any time you inc at marker, place markers in new row in this manner.
     - These increases will create the extra room for the palm/thumb.
-- Rnd 8: sc around, continuing colours, & inc at each marker. (34 - 5 between markers)
-- Rnd 9: repeat rnd 8. (36 - 7 between markers)
-- Rnd 10: sc around, continuing colours. (36)
-- Rnd 11: repeat rnd 8. (38 - 9 between markers)
-- Rnd 12: repeat rnd 10. (38)
-- Rnd 13: repeat rnd 8. (40 - 11 between markers)
-- Rnd 14: repeat rnd 10. (40)
-- Rnd 15: repeat rnd 8. (42 - 13 between markers)
-- Rnd 16 repeat rnd 10. (42)
-- Rnd 17: repeat rnd 8. (44 - 15 between markers)
-- Rnd 18: repeat rnd 10. (44)
+- Rnd 8: sc around & inc at each marker. (34 - 5 between markers)
+- Rnd 9: sc around & inc at each marker. (36 - 7 between markers)
+- Rnd 10: sc around. (36)
+- Rnd 11-18: repeat rnd 8 & 10. (rnd 18: 44 - 15 between markers)
 - Rnd 19: [blk] sc in next 2 sts, [blu] sc in next 11 sts, [blk] sc around. (44)
--
-- Rnd 20: [blk] sc in next 29 sts, inc, [blu] dec, sc in next 7 sts, dec, [blk] inc, sc aroud. (44)
-- Rnd 21: repeat rnd 10. (44)
-- Rnd 22: [blk] 
+  - This is the base of the aarow head.
+- Rnd 20: [blk] sc around, in last blk st before arrow, inc, [blu] dec, sc in next 7 sts, dec, [blk] inc, sc aroud. (44)
+  - **arrow dec** in order to get the aarow head shape without loosing stitches, for each arrow dec rnd, you will inc in the [blk] stitch on either side & dec the first & last [blu] sts.
+- Rnd 21: sc around. (44)
+- Rnd 22: (Thumb division) sc until 1st marker, ch 4 & rejoin 13 sts along; arrow dec (see above) (33)
+- Rnd 23: sc around. (33)
+- Rnd 24-25: sc in ea st, arrow dec, sc around. (33)
+- Rnd 26: sc in ea st, aarow dec (32)
+  - for the aarow dec here, st the first & middle blu st together, then st the middle & last blu st together; going from 3 to 2 sts.
+- Rnd 27: [blk] sc around (32)
