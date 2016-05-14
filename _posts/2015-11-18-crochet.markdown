@@ -96,3 +96,16 @@ This is worked in normal rows using the **F** hook with [blk].
 - Rnd 26: sc in ea st, aarow dec (32)
   - for the aarow dec here, st the first & middle blu st together, then st the middle & last blu st together; going from 3 to 2 sts.
 - Rnd 27: [blk] sc around (32)
+- continue rnd 27 untill desired length is reached.
+- add an edging bind off or split for finger holes with ch-4s (or a different length to better suit your hand size)
+- (for fingers) join at each ch-4 & sc around untill desired length is reached
+  - sc in only 1 loop of the dividing chain so you can use the other loop to do the next finger
+
+### Pt 4: Thumb
+Join next to first chain on palm of glove.
+
+- Rnd 1: sc around until reach chain – sc2tog twice (15sts)
+- Rnd 2: sc around until reach previous sc2tog – sc2tog (14sts)
+- Rnd 3-end: Sc around until reaches desired length. Bind off.
+
+Repeat for second glove.
