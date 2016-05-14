@@ -39,12 +39,22 @@ I wanted to make sure the seam was on the outside edge of the hand, so I decided
 
 ### Guage/Finished Measurements/Sizing
 
+So although I've been knitting & crocheting for many years, I still struggle with guage - I usually just kind of wing it. Also, i do a lot of amigurumi - when it doesn't matter. So I did my best to measure my guage and it seems to be 9 sts x 10 rws for a 2" square. But I HIGHLY suggest that you don't get hung up on this & just do whatever works best for you.
+
+<div style="float: right">![Glove Measurements](http://i1.wp.com/bynumber19.com/wp-content/uploads/2013/03/Mittens-Measurement-p.jpg)</div>
+I have, however, measured the finished product
+* bottom of cuff to tip of fingers is 7.5"
+* A-C: ~4"-5"
+* D: 3" (2" of ribbing & 1" of sc)
+* E: 4.5"
+If you're making these as a present, I suggest taking some measurements and altering the pattern accordingly. I found this image & some other helpful info [here](http://bynumber19.com/2013/03/18/tutorial-measurements-fingerles-crochet-mittens/).
+
 ### Notes/References
 
 As I mentioned, much of this pattern is kind of a patchwork of bits of other patterns. I have slightly rephrased & altered some directions in order to reflect what I did. Check out the original patterns here:
-* Part 1 is from [Men's Crocheted Fingerless Gloves](http://www.myrecycledbags.com/2012/01/02/mens-crocheted-fingerless-gloves/) by Cindy (aka RecycleCindy)
-* Most of Part 3 all of Part 4 are from [Idony Fingerless Gloves](http://www.ravelry.com/patterns/library/idony-fingerless-gloves) by Sarah
-* As mentioned above, I used Futuregirl's [seamless single crochet tutorial](http://www.futuregirl.com/craft_blog/2009/1/tutorial-seamless-single-crochet-better.aspx)
+  * Part 1 is from [Men's Crocheted Fingerless Gloves](http://www.myrecycledbags.com/2012/01/02/mens-crocheted-fingerless-gloves/) by Cindy (aka RecycleCindy)
+  * Most of Part 3 all of Part 4 are from [Idony Fingerless Gloves](http://www.ravelry.com/patterns/library/idony-fingerless-gloves) by Sarah
+  * As mentioned above, I used Futuregirl's [seamless single crochet tutorial](http://www.futuregirl.com/craft_blog/2009/1/tutorial-seamless-single-crochet-better.aspx)
 
 ## Directions
 
@@ -61,18 +71,19 @@ This is worked in normal rows using the **F** hook with [blk].
 
 ### Pt 2: Seamless Tutorial
 
-(This is used for the Pt 3: Glove Body) Here is my summary of how to join rows/rnds. I highly suggest you check out Futuregirl's tutorial; it is incredibly helpful (see notes, above).
-* marking the first & last sc in each row with st markers will be incredibly helpful.
-* sc 1 fewer sts than you want to end up with, as the ss that joins each row will take up the space of one sc.
-* ss into the first sc of the row.
-* turn, moving your work so the right side (most recently made sts) passes toward you and becomes the left side. Always turn in this direction.
-* ch 1, skip the ss that you just made, make next sc (which is the first st of this row) in the last sc of the previous row.
-* continue around to complete row. The last st should be made on top of the first st of the previous row (the first st marker).
-* repeat
+(This is used for the Pt 3: Glove Body) Here is my summary of how to join rows/rnds. As mentioned above, I highly suggest you check out [Futuregirl's tutorial](http://www.futuregirl.com/craft_blog/2009/1/tutorial-seamless-single-crochet-better.aspx); it is incredibly helpful.
+  * marking the first & last sc in each row with st markers will be incredibly helpful.
+  * sc 1 fewer sts than you want to end up with, as the ss that joins each row will take up the space of one sc.
+  * ss into the first sc of the row.
+  * turn, moving your work so the right side (most recently made sts) passes toward you and becomes the left side. Always turn in this direction.
+  * ch 1, skip the ss that you just made, make next sc (which is the first st of this row) in the last sc of the previous row.
+  * continue around to complete row. The last st should be made on top of the first st of the previous row (the first st marker).
+  * repeat
 
 ### Pt 3: Glove Body
 
 **Colour** For all rnds except rnd 3, 19, & 27 continue with the same colour yarn as the st you are working in. Rnd 3 is when to join the arrow color. We want it to go straight up until rnd 19, the base of the arrow head. If nothing is mentioned in the directions about colour, assume you'll be continuing up the colours from the previous rnd.
+
 Here's a chart to help explain the arrow incs & decs: [color chart](../../../../static/img/Posts/Gloves/arrow-chart.png)
 
 - Rnd 1: Slip the **F** hook back into last st of cuff. [blk] Sc evenly along end sts of cuff (30)
