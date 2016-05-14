@@ -13,7 +13,7 @@ Hi there! For christmas I decided to make a pair of fingerless gloves for my boy
 A few years ago I made a pair of fingerless gloves for myself using the "Idony Fingerless Gloves" pattern from Ravelry ([See!](http://www.ravelry.com/projects/thedautoforegon/idony-fingerless-gloves)). I really liked this pattern, speicifcally the increase in the palm/thumb area, but it's a bit too feminine for what I'm goin for. I found another pattern specifically for men's gloves & I very much liked the cuff from that pattern.
 
 I felt that if I made an arrow & then sewed it on it would be too bulky, so I did some experimenting to figure out how to make an arrow, here's that:  
-![IMAGE](url)
+![IMAGE](../../../../static/img/Posts/Gloves/arrow-chart.png)
 
 I wanted to make sure the seam was on the outside edge of the hand, so I decided to use this seamless method, which involves working back & forth as if you were working rows instead of in the round (See Notes/References below). So, **please keep in mind** if you're using this pattern & want to use another method in order to work in the round you will have to do every other line of instructions in reverse!
 
