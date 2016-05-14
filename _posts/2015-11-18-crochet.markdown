@@ -41,17 +41,18 @@ I wanted to make sure the seam was on the outside edge of the hand, so I decided
 
 So although I've been knitting & crocheting for many years, I still struggle with guage - I usually just kind of wing it. Also, i do a lot of amigurumi - when it doesn't matter. So I did my best to measure my guage and it seems to be 9 sts x 10 rws for a 2" square. But I HIGHLY suggest that you don't get hung up on this & just do whatever works best for you.
 
-<div style="float: right">![Glove Measurements](http://i1.wp.com/bynumber19.com/wp-content/uploads/2013/03/Mittens-Measurement-p.jpg)</div>
-I have, however, measured the finished product
-* bottom of cuff to tip of fingers is 7.5"
-* A-C: ~4"-5"
-* D: 3" (2" of ribbing & 1" of sc)
-* E: 4.5"
-If you're making these as a present, I suggest taking some measurements and altering the pattern accordingly. I found this image & some other helpful info [here](http://bynumber19.com/2013/03/18/tutorial-measurements-fingerles-crochet-mittens/).
+I have, however, measured the finished product (measurements reference image below). If you're making these as a present, I suggest taking some measurements and altering the pattern accordingly. I found this image & some other helpful info [here](http://bynumber19.com/2013/03/18/tutorial-measurements-fingerles-crochet-mittens/).
+  * bottom of cuff to tip of fingers is 7.5"
+  * A-C: ~4"-5"
+  * D: 3" (2" of ribbing & 1" of sc)
+  * E: 4.5"
+
+![measurements](http://i1.wp.com/bynumber19.com/wp-content/uploads/2013/03/Mittens-Measurement-p.jpg)
 
 ### Notes/References
 
 As I mentioned, much of this pattern is kind of a patchwork of bits of other patterns. I have slightly rephrased & altered some directions in order to reflect what I did. Check out the original patterns here:
+
   * Part 1 is from [Men's Crocheted Fingerless Gloves](http://www.myrecycledbags.com/2012/01/02/mens-crocheted-fingerless-gloves/) by Cindy (aka RecycleCindy)
   * Most of Part 3 all of Part 4 are from [Idony Fingerless Gloves](http://www.ravelry.com/patterns/library/idony-fingerless-gloves) by Sarah
   * As mentioned above, I used Futuregirl's [seamless single crochet tutorial](http://www.futuregirl.com/craft_blog/2009/1/tutorial-seamless-single-crochet-better.aspx)
@@ -61,6 +62,7 @@ As I mentioned, much of this pattern is kind of a patchwork of bits of other pat
 ### Pt 1: Cuff Ribbing
 
 This is worked in normal rows using the **F** hook with [blk].
+
 - Leave a long tail & ch 11.
 - Row 1: sc in 2nd ch from hook & in each st down to the end. (10)
 - Row 2-30: ch 1, bls in each st across (10)
@@ -72,6 +74,7 @@ This is worked in normal rows using the **F** hook with [blk].
 ### Pt 2: Seamless Tutorial
 
 (This is used for the Pt 3: Glove Body) Here is my summary of how to join rows/rnds. As mentioned above, I highly suggest you check out [Futuregirl's tutorial](http://www.futuregirl.com/craft_blog/2009/1/tutorial-seamless-single-crochet-better.aspx); it is incredibly helpful.
+
   * marking the first & last sc in each row with st markers will be incredibly helpful.
   * sc 1 fewer sts than you want to end up with, as the ss that joins each row will take up the space of one sc.
   * ss into the first sc of the row.
@@ -126,5 +129,7 @@ Repeat for second glove.
 ![2 finished gloves](../../../../static/img/Posts/Gloves/gloves1.jpg)
 
 ![2 finished gloves2](../../../../static/img/Posts/Gloves/gloves3.jpg)
+
+Wow, I finially finished writing this! It's been months since I made these & I'm just getting around to finishing this post. My boyfriend loved the gloves & wore them all winter! Yay!
 
 Ok, well I hope that all made sense! If it didn't, please don't hesitate to contact me for clarification! I'm [http://www.ravelry.com/people/thedautoforegon](thedautoforegon) on Ravelry. Have Fun!
