@@ -6,14 +6,15 @@ published: true
 author: "\'tori Christensen"
 ---
 
+![Airbender Gloves](../../../../static/img/Posts/Gloves/gloves2.jpg)
+
 ## Preface
 
 Hi there! For christmas I decided to make a pair of fingerless gloves for my boyfriend (a computer programmer & piano player who is always cold). After much debate over what to have on them, I decided to go with the airbender arrow (from Avatar: The Last Air Bender) on black. I looked around at some patterns for guys but didn't find any that were quite satisfactory, so I decided to mix-n-match the bits I liked from various patterns & do some improv to get what I wanted.
 
 A few years ago I made a pair of fingerless gloves for myself using the "Idony Fingerless Gloves" pattern from Ravelry ([See!](http://www.ravelry.com/projects/thedautoforegon/idony-fingerless-gloves)). I really liked this pattern, speicifcally the increase in the palm/thumb area, but it's a bit too feminine for what I'm goin for. I found another pattern specifically for men's gloves & I very much liked the cuff from that pattern.
 
-I felt that if I made an arrow & then sewed it on it would be too bulky, so I did some experimenting to figure out how to make an arrow, here's that:  
-![IMAGE](../../../../static/img/Posts/Gloves/arrow-chart.png)
+I felt that if I made an arrow & then sewed it on it would be too bulky, so I did some experimenting to figure out how to make an arrow - so please let me know if my directions don't make sense. Here is a chart I made to help explain - it only shows 1/2 of the glove - specifically the part that deals with the arrow: [arrow chart](../../../../static/img/Posts/Gloves/arrow-chart.png)
 
 I wanted to make sure the seam was on the outside edge of the hand, so I decided to use this seamless method, which involves working back & forth as if you were working rows instead of in the round (See Notes/References below). So, **please keep in mind** if you're using this pattern & want to use another method in order to work in the round you will have to do every other line of instructions in reverse!
 
@@ -42,7 +43,7 @@ I wanted to make sure the seam was on the outside edge of the hand, so I decided
 
 As I mentioned, much of this pattern is kind of a patchwork of bits of other patterns. I have slightly rephrased & altered some directions in order to reflect what I did. Check out the original patterns here:
 * Part 1 is from [Men's Crocheted Fingerless Gloves](http://www.myrecycledbags.com/2012/01/02/mens-crocheted-fingerless-gloves/) by Cindy (aka RecycleCindy)
-* Most of Part 2 is from [Idony Fingerless Gloves](http://www.ravelry.com/patterns/library/idony-fingerless-gloves) by Sarah
+* Most of Part 3 all of Part 4 are from [Idony Fingerless Gloves](http://www.ravelry.com/patterns/library/idony-fingerless-gloves) by Sarah
 * As mentioned above, I used Futuregirl's [seamless single crochet tutorial](http://www.futuregirl.com/craft_blog/2009/1/tutorial-seamless-single-crochet-better.aspx)
 
 ## Directions
@@ -72,6 +73,7 @@ This is worked in normal rows using the **F** hook with [blk].
 ### Pt 3: Glove Body
 
 **Colour** For all rnds except rnd 3, 19, & 27 continue with the same colour yarn as the st you are working in. Rnd 3 is when to join the arrow color. We want it to go straight up until rnd 19, the base of the arrow head. If nothing is mentioned in the directions about colour, assume you'll be continuing up the colours from the previous rnd.
+Here's a chart to help explain the arrow incs & decs: [color chart](../../../../static/img/Posts/Gloves/arrow-chart.png)
 
 - Rnd 1: Slip the **F** hook back into last st of cuff. [blk] Sc evenly along end sts of cuff (30)
   - See Pt 2 for instructions
@@ -109,3 +111,9 @@ Join next to first chain on palm of glove.
 - Rnd 3-end: Sc around until reaches desired length. Bind off.
 
 Repeat for second glove.
+
+![2 finished gloves](../../../../static/img/Posts/Gloves/gloves1.jpg)
+
+![2 finished gloves2](../../../../static/img/Posts/Gloves/gloves3.jpg)
+
+Ok, well I hope that all made sense! If it didn't, please don't hesitate to contact me for clarification! I'm [http://www.ravelry.com/people/thedautoforegon](thedautoforegon) on Ravelry. Have Fun!
